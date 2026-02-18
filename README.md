@@ -22,21 +22,21 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="69" alt="go logo"  />
-  <img width="33" />
+  <img width="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="69" alt="docker logo"  />
-  <img width="33" />
+  <img width="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="69" alt="mysql logo"  />
-  <img width="33" />
+  <img width="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="69" alt="postgresql logo"  />
-  <img width="33" />
+  <img width="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="69" alt="insomnia logo"  />
-  <img width="33" />
+  <img width="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="69" alt="redis logo"  />
-  <img width="33" />
+  <img width="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="69" alt="trello logo"  />
-  <img width="33" />
+  <img width="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="69" alt="vscode logo"  />
-  <img width="33" />
+  <img width="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="69" alt="linux logo"  />
 </div>
 
