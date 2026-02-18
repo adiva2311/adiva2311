@@ -1,16 +1,10 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=125&section=header&reversal=false&text=Hello%20There%20%F0%9F%91%8B&fontSize=48&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=-2&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=120&section=header&reversal=true&text=Welcome%20Everyone%20%F0%9F%91%8B&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=-2&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
 
-<h1 align="center">I am, <br>Adiva Nursuandy!</h1>
-
-###
-
-<div align="center">
-  <img height="191" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWxpNGZ2c2RzMGg0ODZ6cWpldWVwZHd1djAzd2kzb3NkcWhncThwbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif"  />
-</div>
+![Header](./github-header-banner.png)
 
 ###
 
