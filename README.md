@@ -51,3 +51,7 @@
 </picture>
 
 ###
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adiva2311&show_icons=true&locale=en&layout=compact" alt="adiva2311" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adiva2311&show_icons=true&locale=en" alt="adiva2311" /></p>
